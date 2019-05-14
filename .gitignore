@@ -3,6 +3,15 @@
 .RData
 .Ruserdata
 .DS_Store
+
 # . before a name means it's a hidden file
 
+# this is to hide folders that are shown in the Git environment to the right
+# you must save the gitignore file in order for these folders to disappear
+
 Markdown1.html
+
+# clicking on the check boxes in the files in the Git "environment" in the top left will bring those files to the stage
+
+# then press "commit" and this will commit your files to your project. If you go to your files and change something and then save them. An M will show up next to the file in the environment that stands for "modified" and will need to be commited again. 
+

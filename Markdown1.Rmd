@@ -30,3 +30,8 @@ This is how you create R looking script:
 hist(rnorm(1000))
 
 ```
+**Git!**
+
+#To get get started, go to tools -> version control -> click the only box there -> then make sure there is git in the drop down tab and click that. R will restart 
+
+Really fun day of coding. 
