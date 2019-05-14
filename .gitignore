@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+# . before a name means it's a hidden file
+
+Markdown1.html
